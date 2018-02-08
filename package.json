@@ -1,0 +1,23 @@
+{
+  "name": "xiki",
+  "version": "1.0.0",
+  "description": "Свободная энциклопедия по миру базовых понятий хакеров, продавцов услуг, программному обеспечению и т.д.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docpress serve",
+    "generate": "docpress generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xss-su/xiki.git"
+  },
+  "author": "xss-su",
+  "license": "Creative Commons Attribution-ShareAlike 3.0",
+  "bugs": {
+    "url": "https://github.com/xss-su/xiki/issues"
+  },
+  "homepage": "https://github.com/xss-su/xiki#readme",
+  "devDependencies": {
+    "docpress": "0.7.1"
+  }
+}
