@@ -4,8 +4,8 @@
   "description": "Свободная энциклопедия по миру базовых понятий хакеров, продавцов услуг, программному обеспечению и т.д.",
   "main": "index.js",
   "scripts": {
-    "serve": "docpress serve",
-    "generate": "docpress generate"
+    "serve": "docpress serve -p=8080",
+    "build": "docpress build"
   },
   "repository": {
     "type": "git",
